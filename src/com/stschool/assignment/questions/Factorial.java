@@ -2,7 +2,7 @@ package com.stschool.assignment.questions;
 
 import java.util.Scanner;
 
-public class factorial  {
+public class Factorial {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please Enter the number to check it is an factorial : ");
